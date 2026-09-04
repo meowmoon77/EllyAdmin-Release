@@ -1,5 +1,5 @@
 {
-  "version": "98bb936",
-  "changelog": "Правка yml",
-  "download_url": "https://githubusercontent.com/main/EllyAdmin-develop.sf"
+  "version": "develop",
+  "changelog": "Подготовка системы веток",
+  "download_url": "https://githubusercontent.com{{ env.RELEASE_REPO_PATH }}/main/EllyAdmin-develop.sf"
 }
