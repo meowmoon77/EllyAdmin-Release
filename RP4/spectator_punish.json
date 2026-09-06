@@ -1,0 +1,162 @@
+{
+    "mutes": [
+        {
+            "cmd_format": "/з {} Оскорбление",
+            "label": "Оск",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/з {} Flood",
+            "label": "Флуд",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/зк {} 600 /обпр",
+            "label": "/обпр",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/з {} MG",
+            "label": "MG",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/з {} Неуважение",
+            "label": "Неуважение",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/з {} Неадекват",
+            "label": "Неадекват",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/зип {} 864000 Оскорбление родных",
+            "label": "Оск родных",
+            "required_lvl": 500,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/з {} 0",
+            "label": "Снять мут",
+            "required_lvl": 100,
+            "type": "red"
+        },
+        {
+            "cmd_format": "/зип {} 0",
+            "label": "Снять мут (IP)",
+            "required_lvl": 500,
+            "type": "red"
+        },
+        {
+            "cmd_format": "/зк {} 0",
+            "label": "Снять зк",
+            "required_lvl": 100,
+            "type": "red"
+        }
+    ],
+    "prison": [
+        {
+            "cmd_format": "/т {} 7200 DM",
+            "label": "DM x1",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 14400 DM x2",
+            "label": "DM x2",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 54000 DM x3",
+            "label": "DM x3",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 72000 DM x4",
+            "label": "DM x4",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 3600 Нанесение урона",
+            "label": "Урон",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 300 Остынь",
+            "label": "Остынь",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 1800 nonRP поведение",
+            "label": "nonRP поведение",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 3600 PG",
+            "label": "PG",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 600 nonRP стрельба",
+            "label": "nonRP стрельба",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 7200 DB",
+            "label": "DB",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 1800 Провокация PD",
+            "label": "Провокация PD",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 600 Неверная отыгровка",
+            "label": "Неверная отыгр",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 1800 Инта при аресте",
+            "label": "Инта при аресте",
+            "required_lvl": 100,
+            "type": "light"
+        },
+        {
+            "cmd_format": "/т {} 0",
+            "label": "Выпустить",
+            "required_lvl": 100,
+            "type": "red"
+        },
+        {
+            "cmd_format": "/блок {} 0",
+            "label": "Разблокировать",
+            "required_lvl": 700,
+            "type": "red"
+        },
+        {
+            "cmd_format": "/изчм {}",
+            "label": "Вытащить из ЧМ",
+            "required_lvl": 100,
+            "type": "red"
+        }
+    ]
+}
